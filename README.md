@@ -1,33 +1,36 @@
-# iOS Assignments Repository
+📱 iOS Assignments Repository
 
-- **Assignment Apps**  
-    Xcode Applications for Book Guided Projects and Class Assignments
+This repository contains Xcode projects and Swift playgrounds designed for learning and practicing iOS development, including class assignments, guided book projects, and lecture-based demos.
 
-    - Two Buttons [Book]
-    - Calculator [Book]
-    - Segue Login Page [Book]
-    - Guided Project: Apple Pie [Book]
-    - Auto Layout App: Music Player [Assignment]
-    - View Controller Lifecycle App [Book]
-    - Guided Project: Light [Book]
-    - Guided Project: Personality Quiz [Book]
+📘 Assignment Projects
 
-- **Lecture Apps**  
-    Xcode Applications created in the Class Lectures
+Xcode apps developed as part of guided textbook exercises and homework assignments.
 
-    - BMI Calculator
-    - Actions and Outlets
-    - Auto Layout
-    - Segue and Navigation
-    - Expense Manager Example
-    - Tab Bar Navigation
-    - View Controller Lifecycle
+Two Buttons – [From Book]
+Simple Calculator – [From Book]
+Login Page with Segue – [From Book]
+Apple Pie Game – [Guided Project]
+Music Player UI – [Auto Layout Assignment]
+View Controller Lifecycle Demo – [From Book]
+Light Control App – [Guided Project]
+Personality Quiz – [Guided Project]
 
-- **FA-I Problems**  
-    PDFs of FA-1 practice problems and their solutions
+🎓 Lecture Demos
 
-- **Fundamentals Playgrounds**  
-    Playgrounds for Swift Fundamentals
+Xcode apps created during class lectures to demonstrate iOS concepts.
 
-- **Lecture Notes**  
-    Class Notes for Swift Fundamental Topics
+BMI Calculator
+Intro to Actions and Outlets
+Working with Auto Layout
+Navigation Using Segues
+Expense Manager Example
+Tab Bar Interface Navigation
+Understanding View Controller Lifecycle
+
+
+
+
+🧠 Swift Fundamentals Playgrounds
+
+Interactive Swift playground files to strengthen core Swift programming concepts.
+
